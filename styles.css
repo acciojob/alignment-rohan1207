@@ -6,7 +6,7 @@ body {
             text-align: center;
         }
 
-        /* Table Styling */
+       
         table {
             border-collapse: collapse;
             width: 80%;
@@ -34,6 +34,9 @@ body {
             background-color: blue;
             height: 30px;
         }
+#t11{
+	padding:1px;
+}
         #t-image {
             text-align: center;
         }
